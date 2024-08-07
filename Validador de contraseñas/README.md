@@ -57,6 +57,8 @@ lcd.print("Ingrese clave:")
 
 Recorda que el LCD tiene una cantidad limitada de 16 caracteres en la parte superior indicado en el lcd.setCursor(0, 0) y otros 16 caracteres en la parte inferior lcd.setCursor(0, 1). Por consecuencia el print debera ser como maximo de ese largo o no se mostrara el mensaje completo (como nos pasa con la hora)
 
+### En Esquema.png podes ver de manera grafica como estan conectados todos los componentes :)
+
 Gracias por leer! 
 
 Katherine 🌼
